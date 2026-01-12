@@ -27,7 +27,9 @@ https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset
 ## Repository Structure
 ML_Final/
 ├── mushroom_classification.ipynb
+
 ├── requirements.txt
+
 └── data/
     └── secondary_data.csv
 
